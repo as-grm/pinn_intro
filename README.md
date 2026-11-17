@@ -1,4 +1,4 @@
-# From Deep Learning to Physics-Informed Neural Networks
+# Introduction to PINN method
 
 A hands-on introduction to **Physics-Informed Neural Networks (PINNs)** for engineers.
 The repository starts with the fundamentals of deep learning (a multi-layer perceptron on MNIST,
@@ -8,7 +8,7 @@ engineering problems solved with PINNs in PyTorch.
 Every notebook is self-contained: theory, code and validation against a reference or analytical
 solution are in one place.
 
-**Author:** Aleksander GRM — ULFPP, University of Ljubljana, Slovenia
+**Author:** A.S. GRM — ULFPP, University of Ljubljana, Slovenia
 ([aleksander.grm@fpp.uni-lj.si](mailto:aleksander.grm@fpp.uni-lj.si))
 
 ---
