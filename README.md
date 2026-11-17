@@ -8,7 +8,7 @@ engineering problems solved with PINNs in PyTorch.
 Every notebook is self-contained: theory, code and validation against a reference or analytical
 solution are in one place.
 
-**Author:** Aleksander GRM — Faculty of Maritime Studies and Transport (FPP), University of Ljubljana, Slovenia
+**Author:** Aleksander GRM — ULFPP, University of Ljubljana, Slovenia
 ([aleksander.grm@fpp.uni-lj.si](mailto:aleksander.grm@fpp.uni-lj.si))
 
 ---
@@ -153,7 +153,7 @@ If you use this material in teaching or research, please cite the repository:
 ```bibtex
 @misc{grm_pinn_intro_2026,
   author       = {Grm, Aleksander},
-  title        = {pinn\_intro: From Deep Learning to Physics-Informed Neural Networks},
+  title        = {From Deep Learning to Physics-Informed Neural Networks},
   year         = {2026},
   howpublished = {\url{https://github.com/as-grm/pinn_intro}}
 }
